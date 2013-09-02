@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/.DS_Store
+END
+UMSocial.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocial.h
+END
+UMSocialSnsPlatformManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialSnsPlatformManager.h
+END
+UMSocialBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialBar.h
+END
+UMSocialControllerService.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialControllerService.h
+END
+UMSocialSnsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialSnsService.h
+END
+UMSocialConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialConfig.h
+END
+UMSocialAccountManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialAccountManager.h
+END
+UMSocialControllerServiceComment.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialControllerServiceComment.h
+END
+UMSocialData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialData.h
+END
+UMSocialDataService.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/code/!svn/ver/8947/IOS/ChinaNews/ChinaNews/UMSocial_Sdk_2.2.1.1/Header/UMSocialDataService.h
+END
